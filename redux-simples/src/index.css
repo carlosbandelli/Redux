@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'NomeDaFont';
+  src: url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&display=swap.otf');
+ 
+}
+
+
+body{
+  background-color: #222;
+  font: 'NomeDaFont';
+  font-size: 2rem;
+  
+  color: #fff;
+  margin: 30px
+}
